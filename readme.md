@@ -12,5 +12,5 @@ Este é um projeto de um simples *Relógio Digital* desenvolvido utilizando **HT
 
 ## 🌐 Acesse Aqui
 
-Você pode acessar  o Relógio Digital através deste [link](https://marcellofigueiredo.github.io/Relogio-Digital/).
+Você pode acessar  o Relógio Digital através deste [link](https://marcellofigueiredo.github.io/Relogio.Digital/).
 # Relógio Digital
