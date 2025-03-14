@@ -12,5 +12,5 @@ Este é um projeto de um simples *Relógio Digital* desenvolvido utilizando **HT
 
 ## 🌐 Acesse Aqui
 
-Você pode acessar  o Jogo da Velha através deste [link](https://marcellofigueiredo.github.io/Relogio-Digital/). Basta abrir no seu navegador e começar a usar!
+Você pode acessar  o Relógio Digital através deste [link](https://marcellofigueiredo.github.io/Relogio-Digital/).
 # Relógio Digital
